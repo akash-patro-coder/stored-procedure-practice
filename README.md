@@ -1,5 +1,5 @@
-#📂 Databricks SQL: Dynamic Customer & Orders Queries
-##Description
+# 📂 Databricks SQL: Dynamic Customer & Orders Queries
+## Description
 
 This repository contains dynamic SQL queries and reusable views for analyzing customers and orders tables in Databricks. The goal is to provide a fully reusable and parameterizable framework for querying, joining, and checking data without rewriting code for each scenario.
 
